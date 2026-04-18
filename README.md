@@ -1,6 +1,6 @@
 # 📊 HR Workforce Presence Analytics (Power BI)
 
-![Dashboard Preview](./dashboard_overview.png)
+![Dashboard Preview](./dashboard_overview.jpg)
 
 ---
 
