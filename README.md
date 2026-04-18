@@ -144,8 +144,9 @@ Enable early HR intervention and wellness initiatives.
 ---
 
 ## 🎥 Demo
-A quick walkthrough of the dashboard and key insights:
-[![Watch Demo](https://www.loom.com/share/19530ce9f9e24daa952baa883611e564)]
+👉 Click below to watch/download the demo video:
+
+[▶ Download & Watch Demo](./hr_analytics.mp4)
 
 ## 🧠 Key Learnings
 
